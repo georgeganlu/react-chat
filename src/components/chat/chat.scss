@@ -1,0 +1,23 @@
+.entryInfo{
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    right: 0;
+}
+.my-list{
+    flex-direction: row-reverse;
+    .am-list-line{
+        .am-list-content{
+            text-align: right
+        }
+    }    
+}
+.smileNew{
+    margin-right: 8px;
+}
+.am-grid-icon{
+    display: none
+}
+.am-grid .am-flexbox .am-flexbox-item .am-grid-item-content .am-grid-item-inner-content .am-grid-text{
+    margin-top: 0px;
+}
